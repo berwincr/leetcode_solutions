@@ -41,59 +41,41 @@ Problems Solved
 </text>
 
 <!-- Easy -->
-<text x="80" y="225"
-class="label" fill="#3fb950">
+<text x="80" y="225" class="label" fill="#3fb950">
 Easy
 </text>
 
-<rect x="200" y="205"
-width="350" height="25" rx="12"
-fill="#21262d"/>
+<rect x="200" y="205" width="350" height="25" rx="12" fill="#21262d"/>
 
-<rect x="200" y="205"
-width="0" height="25" rx="12"
-fill="#3fb950"/>
+<rect x="200" y="205" width="0" height="25" rx="12" fill="#3fb950"/>
 
-<text x="580" y="225"
-class="number" fill="white">
+<text x="580" y="225" class="number" fill="white">
 0
 </text>
 
 <!-- Medium -->
-<text x="80" y="285"
-class="label" fill="#d29922">
+<text x="80" y="285" class="label" fill="#d29922">
 Medium
 </text>
 
-<rect x="200" y="265"
-width="350" height="25" rx="12"
-fill="#21262d"/>
+<rect x="200" y="265" width="350" height="25" rx="12" fill="#21262d"/>
 
-<rect x="200" y="265"
-width="350" height="25" rx="12"
-fill="#d29922"/>
+<rect x="200" y="265" width="350" height="25" rx="12" fill="#d29922"/>
 
-<text x="580" y="285"
-class="number" fill="white">
+<text x="580" y="285" class="number" fill="white">
 1
 </text>
 
 <!-- Hard -->
-<text x="80" y="345"
-class="label" fill="#f85149">
+<text x="80" y="345" class="label" fill="#f85149">
 Hard
 </text>
 
-<rect x="200" y="325"
-width="350" height="25" rx="12"
-fill="#21262d"/>
+<rect x="200" y="325" width="350" height="25" rx="12" fill="#21262d"/>
 
-<rect x="200" y="325"
-width="0" height="25" rx="12"
-fill="#f85149"/>
+<rect x="200" y="325" width="0" height="25" rx="12" fill="#f85149"/>
 
-<text x="580" y="345"
-class="number" fill="white">
+<text x="580" y="345" class="number" fill="white">
 0
 </text>
 
