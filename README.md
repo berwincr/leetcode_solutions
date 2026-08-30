@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/berwincr/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
