@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -28,9 +29,18 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
