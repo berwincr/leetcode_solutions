@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -52,12 +53,14 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
