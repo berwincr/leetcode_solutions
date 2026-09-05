@@ -35,7 +35,7 @@ LeetCode Progress
 <!-- Total -->
 <text x="400" y="135" text-anchor="middle"
 class="total" fill="#58a6ff">
-12
+13
 </text>
 
 <text x="400" y="165" text-anchor="middle"
@@ -82,7 +82,7 @@ rx="12"
 fill="#21262d"/>
 
 <rect x="200" y="265"
-width="291"
+width="350"
 height="25"
 rx="12"
 fill="#d29922"/>
@@ -90,7 +90,7 @@ fill="#d29922"/>
 <text x="580" y="285"
 class="number"
 fill="white">
-5
+6
 </text>
 
 
