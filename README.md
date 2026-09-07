@@ -22,6 +22,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/berwincr/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/berwincr/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/berwincr/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -97,6 +99,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/berwincr/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting Sort
 |  |
@@ -126,4 +129,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/berwincr/leetcode_solutions/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
