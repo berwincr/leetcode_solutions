@@ -42,6 +42,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/berwincr/leetcode_solutions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/berwincr/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -77,6 +78,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/berwincr/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
