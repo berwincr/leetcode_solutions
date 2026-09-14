@@ -148,6 +148,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/berwincr/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
@@ -167,4 +168,20 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0577-employee-bonus](https://github.com/berwincr/leetcode_solutions/tree/master/0577-employee-bonus) |
 | [1280-students-and-examinations](https://github.com/berwincr/leetcode_solutions/tree/master/1280-students-and-examinations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
