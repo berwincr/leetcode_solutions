@@ -17,6 +17,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/berwincr/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -79,6 +81,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0056-merge-intervals](https://github.com/berwincr/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -163,6 +166,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/berwincr/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 ## Database
 |  |
 | ------- |
