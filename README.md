@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0008-string-to-integer-atoi](https://github.com/berwincr/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/berwincr/leetcode_solutions/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -92,6 +93,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/berwincr/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/berwincr/leetcode_solutions/tree/master/0443-string-compression) |
 ## String Matching
 |  |
@@ -190,4 +192,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
