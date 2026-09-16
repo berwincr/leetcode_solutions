@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/berwincr/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/berwincr/leetcode_solutions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/berwincr/leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -88,6 +89,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/berwincr/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/berwincr/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -169,6 +171,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/berwincr/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/berwincr/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 ## Database
