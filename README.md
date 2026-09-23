@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/berwincr/leetcode_solutions/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berwincr/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berwincr/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
