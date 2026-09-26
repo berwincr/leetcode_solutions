@@ -41,6 +41,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0443-string-compression](https://github.com/berwincr/leetcode_solutions/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berwincr/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-removing-stars-from-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,10 +165,12 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
 | ------- |
