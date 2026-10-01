@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/berwincr/leetcode_solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/berwincr/leetcode_solutions/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -175,6 +176,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/berwincr/leetcode_solutions/tree/master/0394-decode-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/berwincr/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -201,6 +203,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/berwincr/leetcode_solutions/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
