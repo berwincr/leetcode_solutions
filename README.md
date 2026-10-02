@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -69,6 +70,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/berwincr/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/berwincr/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
@@ -97,6 +99,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -113,6 +116,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/berwincr/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/berwincr/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -179,6 +183,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
@@ -234,6 +239,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
