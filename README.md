@@ -100,6 +100,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/berwincr/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -138,6 +139,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/berwincr/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +254,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/berwincr/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Database
 |  |
 | ------- |
@@ -267,6 +270,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -286,6 +290,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/berwincr/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
 |  |
 | ------- |
