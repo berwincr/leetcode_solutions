@@ -308,4 +308,20 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/berwincr/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
