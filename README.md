@@ -312,6 +312,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -324,4 +325,9 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
