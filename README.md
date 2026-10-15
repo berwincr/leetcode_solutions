@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1657-determine-if-two-strings-are-close](https://github.com/berwincr/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/berwincr/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -102,6 +103,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [2215-find-the-difference-of-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/berwincr/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/berwincr/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -330,4 +332,12 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/berwincr/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/berwincr/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
