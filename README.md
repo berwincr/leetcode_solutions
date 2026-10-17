@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/berwincr/leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/berwincr/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/berwincr/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
@@ -255,6 +256,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0011-container-with-most-water](https://github.com/berwincr/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/berwincr/leetcode_solutions/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/berwincr/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
@@ -341,4 +343,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/berwincr/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
