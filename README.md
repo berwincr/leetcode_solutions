@@ -212,6 +212,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/berwincr/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/berwincr/leetcode_solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/berwincr/leetcode_solutions/tree/master/0856-score-of-parentheses) |
@@ -316,11 +317,13 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -329,6 +332,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
