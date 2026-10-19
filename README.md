@@ -327,6 +327,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0110-balanced-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -338,6 +339,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0110-balanced-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,6 +358,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0110-balanced-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -373,4 +376,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
