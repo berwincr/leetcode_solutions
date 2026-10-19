@@ -101,6 +101,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/berwincr/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/berwincr/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/berwincr/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -143,6 +144,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/berwincr/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/berwincr/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
@@ -300,6 +302,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/berwincr/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/berwincr/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
 |  |
