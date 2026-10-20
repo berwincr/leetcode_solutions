@@ -182,6 +182,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/berwincr/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
@@ -248,6 +249,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/berwincr/leetcode_solutions/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
