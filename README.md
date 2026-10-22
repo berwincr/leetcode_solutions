@@ -274,6 +274,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/berwincr/leetcode_solutions/tree/master/0577-employee-bonus) |
+| [1193-monthly-transactions-i](https://github.com/berwincr/leetcode_solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/berwincr/leetcode_solutions/tree/master/1280-students-and-examinations) |
 ## Divide and Conquer
 |  |
