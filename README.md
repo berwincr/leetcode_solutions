@@ -99,6 +99,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/berwincr/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -240,6 +241,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -353,6 +355,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -362,6 +365,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,4 +401,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
