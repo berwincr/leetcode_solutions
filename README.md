@@ -128,6 +128,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -189,6 +190,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/berwincr/leetcode_solutions/tree/master/0189-rotate-array) |
