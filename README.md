@@ -286,6 +286,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0608-tree-node](https://github.com/berwincr/leetcode_solutions/tree/master/0608-tree-node) |
 | [1193-monthly-transactions-i](https://github.com/berwincr/leetcode_solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/berwincr/leetcode_solutions/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/berwincr/leetcode_solutions/tree/master/1341-movie-rating) |
 ## Divide and Conquer
 |  |
 | ------- |
