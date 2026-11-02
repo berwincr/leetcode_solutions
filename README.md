@@ -91,6 +91,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0283-move-zeroes](https://github.com/berwincr/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/berwincr/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -145,6 +146,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/berwincr/leetcode_solutions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
@@ -196,6 +198,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/berwincr/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
