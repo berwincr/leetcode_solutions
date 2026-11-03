@@ -132,6 +132,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/berwincr/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -323,6 +324,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/berwincr/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/berwincr/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -356,6 +358,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0144-binary-tree-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -397,6 +400,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0144-binary-tree-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
