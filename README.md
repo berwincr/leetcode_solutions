@@ -106,6 +106,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/berwincr/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
@@ -156,6 +157,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0846-hand-of-straights](https://github.com/berwincr/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/berwincr/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/berwincr/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +179,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/berwincr/leetcode_solutions/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/berwincr/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
@@ -331,6 +334,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/berwincr/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/berwincr/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/berwincr/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
