@@ -108,6 +108,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1207-unique-number-of-occurrences](https://github.com/berwincr/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -133,6 +134,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0383-ransom-note](https://github.com/berwincr/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/berwincr/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
@@ -263,6 +265,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -391,6 +394,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,6 +406,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -445,4 +450,5 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
