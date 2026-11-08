@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0008-string-to-integer-atoi](https://github.com/berwincr/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/berwincr/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/berwincr/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -377,6 +378,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -391,6 +393,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0144-binary-tree-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
@@ -404,6 +407,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
@@ -423,6 +427,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0145-binary-tree-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/berwincr/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -451,4 +456,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
