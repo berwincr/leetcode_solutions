@@ -308,6 +308,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/berwincr/leetcode_solutions/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/berwincr/leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/berwincr/leetcode_solutions/tree/master/0577-employee-bonus) |
 | [0608-tree-node](https://github.com/berwincr/leetcode_solutions/tree/master/0608-tree-node) |
 | [1193-monthly-transactions-i](https://github.com/berwincr/leetcode_solutions/tree/master/1193-monthly-transactions-i) |
