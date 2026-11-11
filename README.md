@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0008-string-to-integer-atoi](https://github.com/berwincr/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/berwincr/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/berwincr/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/berwincr/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -212,6 +213,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/berwincr/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/berwincr/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
