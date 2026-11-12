@@ -124,6 +124,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [2778-sum-of-squares-of-special-elements](https://github.com/berwincr/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/berwincr/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/berwincr/leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/berwincr/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
