@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/berwincr/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
@@ -282,6 +283,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/berwincr/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/berwincr/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -490,10 +492,15 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/berwincr/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/berwincr/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
