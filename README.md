@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/berwincr/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -76,6 +77,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/berwincr/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/berwincr/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/berwincr/leetcode_solutions/tree/master/0018-4sum) |
