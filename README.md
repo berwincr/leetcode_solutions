@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/berwincr/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/berwincr/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -102,6 +103,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0283-move-zeroes](https://github.com/berwincr/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/berwincr/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/berwincr/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -141,6 +143,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/berwincr/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -165,6 +168,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0229-majority-element-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/berwincr/leetcode_solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
@@ -332,10 +336,12 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/berwincr/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/berwincr/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/berwincr/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
@@ -517,4 +523,12 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
