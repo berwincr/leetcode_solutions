@@ -98,6 +98,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/berwincr/leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/berwincr/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/berwincr/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/berwincr/leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/berwincr/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -236,6 +237,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/berwincr/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/berwincr/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/berwincr/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -504,6 +506,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/berwincr/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/berwincr/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
