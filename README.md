@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0001-two-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/berwincr/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/berwincr/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0118-pascals-triangle](https://github.com/berwincr/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/berwincr/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/berwincr/leetcode_solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
@@ -513,6 +515,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 ## Design
