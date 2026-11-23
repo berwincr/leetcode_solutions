@@ -127,6 +127,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/berwincr/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/berwincr/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/berwincr/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/berwincr/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -240,6 +241,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/berwincr/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/berwincr/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -258,6 +260,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0724-find-pivot-index](https://github.com/berwincr/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/berwincr/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/berwincr/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/berwincr/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/berwincr/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -548,6 +551,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0173-binary-search-tree-iterator](https://github.com/berwincr/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/berwincr/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -576,4 +580,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
