@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1248-count-number-of-nice-subarrays](https://github.com/berwincr/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/berwincr/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berwincr/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/berwincr/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/berwincr/leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/berwincr/leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/berwincr/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/berwincr/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -244,6 +246,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/berwincr/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/berwincr/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/berwincr/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/berwincr/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -324,6 +327,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/berwincr/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/berwincr/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -584,4 +588,8 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/berwincr/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
