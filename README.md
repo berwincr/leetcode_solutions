@@ -246,6 +246,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1352-product-of-the-last-k-numbers](https://github.com/berwincr/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/berwincr/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/berwincr/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/berwincr/leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/berwincr/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/berwincr/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/berwincr/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -297,6 +298,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/berwincr/leetcode_solutions/tree/master/3360-stone-removal-game) |
 ## Quicksort
 |  |
 | ------- |
