@@ -167,6 +167,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/berwincr/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/berwincr/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -363,6 +364,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/berwincr/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/berwincr/leetcode_solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/berwincr/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/berwincr/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
