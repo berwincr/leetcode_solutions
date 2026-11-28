@@ -51,6 +51,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | [0008-string-to-integer-atoi](https://github.com/berwincr/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/berwincr/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/berwincr/leetcode_solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/berwincr/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/berwincr/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -167,6 +168,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/berwincr/leetcode_solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/berwincr/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/berwincr/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/berwincr/leetcode_solutions/tree/master/0268-missing-number) |
@@ -238,6 +240,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 | ------- |
 | [0029-divide-two-integers](https://github.com/berwincr/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/berwincr/leetcode_solutions/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/berwincr/leetcode_solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/berwincr/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/berwincr/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/berwincr/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -297,6 +300,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/berwincr/leetcode_solutions/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/berwincr/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/berwincr/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
